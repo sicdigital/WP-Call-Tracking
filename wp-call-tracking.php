@@ -3,7 +3,7 @@
 /* 
 Plugin Name: WP Call Tracking
 Plugin URI: http://www.sicdigital.com
-Description: A Premium Plugin for tracking phone calls genereated through your website.
+Description: WP Call Tracking is the most advanced plugin available for  tracking phone calls genereated through your website. 
 Author: Michael Chaocn
 Version: 1.0 
 Author URI: http://www.mikechacon.com
